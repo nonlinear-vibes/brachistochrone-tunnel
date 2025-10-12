@@ -47,4 +47,4 @@ with the well-known hypocycloid solution
 \end{aligned}
 ```
 
-The detailed calculations can be found [here](docs/brachistochrone_calculations.pdf).
+The detailed calculations with the gory details can be found [here](docs/brachistochrone_calculations.pdf).
