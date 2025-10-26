@@ -1,8 +1,7 @@
 # Brachistochrone in a Uniform-Density Planet
 Terrestrial brachistochrone paths + analytical calculations
 
-Visualizes the brachistochrone tunnel inside a spherical, uniform-density planet by plotting the optimal (minimum-time) hypocycloid paths in a 2D disk. For each endpoint separation 
-Δθ, the script draws the two mirrored branches, and annotates the legend with the surface distance and travel time.
+Visualizes the brachistochrone tunnels inside a uniform-density planet by plotting the optimal (minimum-time) hypocycloid paths in a 2D disk.
 
 Example with Earth parameters and Δθ steps of 30°:
 
@@ -39,7 +38,7 @@ With these, the integrand is $\theta$-independent, and the integral can be minim
 \end{aligned}
 ```
 
-with the well-known hypocycloid solution
+with the hypocycloid solution
 
 ```math
 \begin{aligned}
@@ -47,4 +46,4 @@ with the well-known hypocycloid solution
 \end{aligned}
 ```
 
-The detailed calculations with the gory details can be found [here](docs/brachistochrone_calculations.pdf).
+The detailed calculations and the gory details can be found [here](docs/brachistochrone_calculations.pdf).
