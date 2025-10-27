@@ -1,7 +1,7 @@
-# Brachistochrone in a Uniform-Density Planet
+# Brachistochrones in a Uniform-Density Planet
 Terrestrial brachistochrone paths + analytical calculations
 
-Visualizes the brachistochrone tunnels inside a uniform-density planet by plotting the optimal (minimum-time) hypocycloid paths in a 2D disk.
+Visualizes the brachistochrone (shortest time) trajectories in the gravitationaly field of a uniform-density planet by plotting the optimal paths in a 2D disk.
 
 Example with Earth parameters and Δθ steps of 30°:
 
